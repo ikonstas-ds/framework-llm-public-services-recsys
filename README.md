@@ -5,46 +5,24 @@
 This repository contains the research paper and supporting materials for:
 ***A Framework for a Recommender System on Data-Centric Public Service Provision Using Large Language Models***.
 
-The work explores how **Large Language Models (LLMs)** can be leveraged to design and implement recommender systems that enhance **data-driven public service delivery**. The framework addresses challenges of scalability, transparency, and trustworthiness in AI-assisted decision-making for public sector contexts.
-
 ---
 
-## 📂 Repository Structure
 
-```
-├── paper/                  # Drafts, final manuscript, and supplementary text
-│   └── framework_paper.pdf
-├── data/                   # (If applicable) datasets or data samples
-├── code/                   # Implementation (e.g., scripts, prototypes, notebooks)
-├── experiments/            # Experimental setups, configs, and results
-├── figures/                # Figures, diagrams, and visualizations
-└── README.md               # This file
-```
-
----
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-* Python >= 3.9
-* [PyTorch](https://pytorch.org/) or [TensorFlow](https://www.tensorflow.org/) (depending on experiments)
-* [Transformers](https://huggingface.co/transformers/)
-* Additional dependencies listed in `requirements.txt`
+* KNIME Analytics Platform >= 5.4
+* Install the KNIME extensions when opening the KNIME workflow
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
 ### Running Experiments
 
-Example command:
-
-```bash
-python code/train.py --config experiments/config.yaml
-```
+* Launch KNIME Analytics Platform
+* Open the KNIME workflow
+* Execute to inspect the results
 
 ---
 
@@ -61,7 +39,7 @@ python code/train.py --config experiments/config.yaml
 If you use this work, please cite:
 
 ```bibtex
-@article{yourlastname2025framework,
+@article{konstantinidis2025framework,
   title={A Framework for a Recommender System on Data-Centric Public Service Provision Using Large Language Models},
   author={Your Name and Co-authors},
   journal={Preprint / Journal name},
@@ -77,15 +55,14 @@ If you use this work, please cite:
 *This section can include a short summary or the abstract of your paper.*
 Example:
 
-> This paper proposes a framework that integrates large language models into recommender systems for public service provision. The framework emphasizes data-centric approaches, leveraging structured and unstructured data sources to improve decision support, personalization, and transparency in government services.
+> Over the last years, public service provision has been limited to document-centric procedures that require citizens to submit the same documents multiple times, which is time-consuming and error-prone. This study tackles this problem and proposes a data-centric framework for a recommender system that combines knowledge graphs (KGs) and large language models (LLMs) as a neuro-symbolic AI architecture. The framework expresses public service preconditions as machine-readable rules based on data standards and provides dynamic recommendations to citizen profiles through automated reasoning. LLMs are utilized to extract preconditions from unstructured textual regulations and create RDF-based evidence models, while KGs provide validation of preconditions through SHACL rules and explainable reasoning towards semantic interoperability. A use case on students applying for housing allowance showcases the feasibility of the proposed framework. The analysis indicates that combining KGs with LLMs for public service recommendations can improve the quality of public services and reduce administrative burdens towards a proactive “No-Stop Government”, where services are recommended without explicit requests. The findings highlight the promising potential of employing neuro-symbolic AI to transform e-government processes, while also addressing challenges related to legal complexity, privacy and data fragmentation for large-scale adoption.
 
 ---
 
 ## 📌 Features
 
-* ✅ Novel framework for LLM-powered public service recommendations
-* ✅ Data-centric methodology for transparent AI applications
+* ✅ Conceptual Framework for Data-Centric Public Service Provision
+* ✅ Pathway Towards No-Stop Government (NSG)
 * ✅ Experimental validation on real-world datasets
-* ✅ Open-source implementation for reproducibility
 
 ---
