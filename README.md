@@ -20,7 +20,7 @@ This repository contains the research paper and supporting materials for:
 
 ### Running Experiments
 
-* Launch KNIME Analytics Platform
+* Import the workflow to KNIME Analytics Platform
 * Open the KNIME workflow
 * Execute to inspect the results
 
