@@ -26,13 +26,6 @@ This repository contains the research paper and supporting materials for:
 
 ---
 
-## 📊 Datasets
-
-* Publicly available open government or service provision datasets (details in paper).
-* Due to licensing and privacy, not all datasets may be distributed here.
-* See `data/README.md` for instructions on accessing external datasets.
-
----
 
 ## 📝 Citation
 
