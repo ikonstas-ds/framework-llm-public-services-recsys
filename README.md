@@ -20,8 +20,10 @@ This repository contains the research paper and supporting materials for:
 * ✅ Pathway Towards No-Stop Government (NSG)
 * ✅ Experimental validation on real-world datasets
 
-
 ---
+
+## Architectural process
+![Framework Diagram](figures/architecture.svg)
 
 
 ## 🚀 Getting Started
