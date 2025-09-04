@@ -22,7 +22,7 @@ This repository contains the research paper and supporting materials for:
 
 ---
 
-## Architectural process
+## Framework Process Diagram
 ![Framework Diagram](figures/architecture.svg)
 
 
