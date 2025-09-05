@@ -1,9 +1,9 @@
-# A Framework for a Recommender System on Data-Centric Public Service Provision Using Large Language Models
+# A Framework for a Public Service Recommender System Based on Neuro-Symbolic AI
 
 ## 📖 Overview
 
 This repository contains the research paper and supporting materials for:
-***A Framework for a Recommender System on Data-Centric Public Service Provision Using Large Language Models***.
+***A Framework for a Public Service Recommender System Based on Neuro-Symbolic AI***.
 
 
 ---
