@@ -52,7 +52,7 @@ If you use this work, please cite:
 
 ```bibtex
 @article{konstantinidis2025framework,
-  title={A Framework for a Recommender System on Data-Centric Public Service Provision Using Large Language Models},
+  title={A Framework for a Public Service Recommender System Based on Neuro-Symbolic AI},
   author={Your Name and Co-authors},
   journal={Preprint / Journal name},
   year={2025},
