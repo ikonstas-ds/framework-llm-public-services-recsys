@@ -16,9 +16,9 @@ This repository contains the research paper and supporting materials for:
 
 ## 📌 Features
 
-* ✅ Conceptual Framework for Data-Centric Public Service Provision
+* ✅ Neuro-symbolic framework for public service recommendation
+* ✅ Prototype implementation and case study demonstration
 * ✅ Pathway Towards No-Stop Government (NSG)
-* ✅ Experimental validation on real-world datasets
 
 ---
 
